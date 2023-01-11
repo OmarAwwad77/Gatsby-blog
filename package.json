@@ -21,7 +21,7 @@
     "gatsby-remark-images": "^3.2.5",
     "gatsby-remark-relative-images": "^0.3.0",
     "gatsby-source-filesystem": "^2.2.4",
-    "gatsby-transformer-remark": "^2.7.4",
+    "gatsby-transformer-remark": "^5.25.1",
     "imagemin-pngquant": "^5.0.1",
     "node-sass": "^4.13.1",
     "pngquant-bin": "^3.1.1",
